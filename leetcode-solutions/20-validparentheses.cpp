@@ -1,6 +1,6 @@
 #include <vector>
 #include <string>
-#include <algorithm> // For min()
+#include <algorithm>
 
 using namespace std;
 
